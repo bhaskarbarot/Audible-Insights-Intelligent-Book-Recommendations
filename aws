@@ -46,7 +46,7 @@ python3 -m streamlit run app.py
 
 ```bash
 #Permanent running
-nohup python3 -m streamlit run app.py
+nohup python3 -m streamlit run book_st.py
 ```
 
 Note: Streamlit runs on this port: 8504
